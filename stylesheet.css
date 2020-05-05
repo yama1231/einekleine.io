@@ -134,17 +134,17 @@ header {
   float: left;
   width: 25%;
 }
-
+/**/
 .lesson-icon {
-  position: relative;
-}
+  
+}/*position: relative;*/
 
 .lesson-icon p {
   position: absolute;
   top: 37%;
   width: 100%;
   color: white;
-}
+}/*pは文字部分*/
 
 .text-contents {
   width: 80%;
